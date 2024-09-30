@@ -1,8 +1,5 @@
-# Indian-Students-Abroad
 
-Here's a README file for your project that provides an overview and instructions for running the app:
 
-```markdown
 # Indian Students Heatmap
 
 This project visualizes the distribution of Indian students across different locations using a heatmap. The heatmap allows users to see the concentration of students based on their geographical coordinates.
