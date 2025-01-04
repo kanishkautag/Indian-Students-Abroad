@@ -1,5 +1,3 @@
-
-
 # Indian Students Heatmap
 
 This project visualizes the distribution of Indian students across different locations using a heatmap. The heatmap allows users to see the concentration of students based on their geographical coordinates.
@@ -42,6 +40,10 @@ Make sure to include this CSV file in the project directory.
 
 3. Open a web browser and go to `http://127.0.0.1:8000` to view the heatmap.
 
+Alternatively, you can view the live heatmap application hosted on Shiny at the following link:
+
+[Indian Students Heatmap](https://kan05.shinyapps.io/indianstudent/)
+
 ## Features
 
 - An interactive heatmap showing the distribution of Indian students.
@@ -59,9 +61,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Acknowledgments
 
 - Thanks to the developers of Pandas, Folium, and Shiny for providing excellent tools for data visualization and web development.
-
-```
-
-### Notes:
-- Replace `app.py` with the actual filename of your script if it's different.
-- You can modify the content to better fit your project's specifics, such as the description of the dataset and any additional features or functionalities.
